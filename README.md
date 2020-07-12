@@ -1,6 +1,6 @@
 # SafeTeachSkiper 2.0
 
-安全教育自动学习
+SZPT安全教育自动学习
 
 ## 简介
 
